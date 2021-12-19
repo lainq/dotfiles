@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: trackr
+Version: 0.0.1
+Summary: Track app time
+Home-page: UNKNOWN
+Author: Pranav Baburaj
+Author-email: i.am.pranav.baburaj@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Trackr
+
+Trackr trackes the amount of time you spend on an application
+[inserts gif]
+
+> Note that `trackr` available in this repository only works on linux, checkout [this](https://gist.github.com/pranavbaburaj/5950b3ff09d6bcdca1fab6753f634d9d) for a cross-platform version. 
+
+> Installation
+```sh
+cd scripts/trackr
+pip3 install .
+```
+
