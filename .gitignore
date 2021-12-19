@@ -7,3 +7,6 @@ pg
 *.dylib
 *.dll
 vls.log
+
+build/
+
