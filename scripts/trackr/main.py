@@ -40,6 +40,7 @@ def get_active_window_name() -> Optional[str]:
         data = file_reader.read()
     return data
 
+
 def create_notification(title, message, timeout=10):
     notification.notify(title=title, message=message, timeout=timeout)
 
