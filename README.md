@@ -1,5 +1,9 @@
 # Dotfiles (**WIP**)
 
+
+https://user-images.githubusercontent.com/70764593/152006919-8d864613-e054-474d-a467-fa8cb8eb5e15.mp4
+
+
 ### Getting the config working
 
 ```
