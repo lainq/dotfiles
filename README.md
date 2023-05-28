@@ -1,31 +1,8 @@
-# Dotfiles (**WIP**)
+
+<div align="center">
+<h1>My ugly config </h1>
+<img src="https://github.com/pranavbaburaj/dotfiles/assets/70764593/6a979b54-0531-4722-b329-d9f5f6196555" width="683" height="384">
+</div>
 
 
-https://user-images.githubusercontent.com/70764593/152006919-8d864613-e054-474d-a467-fa8cb8eb5e15.mp4
-
-
-### Getting the config working
-
-```
-git clone https://github.com/pranavbaburaj/dotfiles
-cd dotfiles
-```
-
-#### i3wm
-`./.config/i3/config`  -> `~/.config/i3/config`
-
-#### polybar
-`./.config/polybar/config` -> `~/.config/polybar/config`
-
-`./.config/polybar/launch.sh` -> `~/.config/polybar/launch.sh` (make sure to make it executable `sudo chmod u+x ~/.config/polybar/launch.sh`
-
-#### rofi
-`./.config/rofi/config` -> `~./config/rofi/config`
-
-<!-- rofi.theme: /usr/share/rofi/themes/aura.rasi -->
-`./.config/rofi/theme/theme.rasi` -> `~/usr/local/rofi/themes/aura.theme`
-
-### Xfce4 Terminal
-`~/.config/xfce4-terminal/colorschemes/theme.theme` -> `~/.local/share/xfce4/terminal/colorschemes/theme.theme`
-
-and change the color scheme from the appearance settings in xfce terminal.
+> Place the wallpaper in `/usr/share/backgrounds/`
