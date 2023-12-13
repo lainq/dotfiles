@@ -1,0 +1,10 @@
+#! /usr/bin/bash
+
+last_command=$(cat ~/.bash_history | grep $1 | tail -1)
+if [[ $2 == "e" ]]; then
+  echo "Executing command: $last_command"
+  eval "$last_command"
+else
+  echo -n $last_command | xclip -selection clipboard 
+fi
+

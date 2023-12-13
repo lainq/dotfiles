@@ -1,0 +1,8 @@
+
+configuration {
+  font: "Source Code Pro 13";
+  modes: [drun, run, filebrowser];
+}
+
+//@theme "/usr/share/rofi/themes/dmenu.rasi"
+@theme "~/.config/rofi/theme.rasi"

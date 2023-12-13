@@ -1,0 +1,6 @@
+# Keyboard Layout
+setxkbmap us &
+xrandr --output $(xrandr | grep connected | grep -v disconnected | awk '{print $1}') --scale 1.2x1.2
+nm-applet &
+feh --bg-fill ~/wallpaper/5cmpersec/692852.jpg
+picom &

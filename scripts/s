@@ -1,0 +1,3 @@
+#! /usr/bin/bash
+prog_name=$(dmenu_path | fzf)
+$prog_name &
